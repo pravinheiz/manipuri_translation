@@ -185,8 +185,7 @@ k t p m n l ng
 
 ## License
 
-MIT License
-Free to use, modify, and distribute.
+Heisnam Pravin Singh 
 
 ---
 
